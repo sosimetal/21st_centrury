@@ -1,5 +1,5 @@
 # 21st_centrury
-Τα αρχεία Findword, Letterless, Letterswapped, Wrongletter περιέχουν τις αντίστοιχες μεθόδους που ελέγχουν μία λέξη για να εντωπίσουν ένα συγκεκριμένο τύπο λάθους
+Τα αρχεία Findword, Letterless, Letterswapped, Wrongletter περιέχουν τις αντίστοιχες μεθόδους που ελέγχουν μία λέξη για να εντωπίσουν ένα συγκεκριμένο τύπο λάθους και το Suggestions.java προτείνει σωστές λέξεις εάν βρεθεί ορθογραφικό λάθος
 Τα Spellcheck, Phonetic και Main αποτελούν το κυρίως πρόγραμμα
 Το SpellcheckTest αφορά τον έλεγχο
 Τα orf.jsp, orf.html, right.jsp αποτελούν τη διεπαφή
